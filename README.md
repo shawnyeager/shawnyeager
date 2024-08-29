@@ -1,3 +1,3 @@
 ₿itcoiner • Business Developer • Bullish
 - - -
-Find me on 𓅦 [nostr](https://nostr.shawnyeager.com).
+Find me on [nostr](https://nostr.shawnyeager.com).
