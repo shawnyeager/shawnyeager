@@ -9,7 +9,7 @@ I help Bitcoin startups figure out go-to-market and revenue strategy. Previously
 ## What I'm Working On
 
 - Hosting [Trust Revolution](https://trustrevolution.co) — a podcast exploring trust in a decentralized future
-- Writing essays on Bitcoin go-to-market at [shawnyeager.com](https://shawnyeager.com)
+- Writing essays at [shawnyeager.com](https://shawnyeager.com)
 - Thinking in public at [shawnyeager.org](https://shawnyeager.org)
 
 ## Get in Touch
