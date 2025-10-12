@@ -1,3 +1,5 @@
+![](brand-bar.svg)
+
 # Hey, I'm Shawn 👋
 
 Working toward a future built on Bitcoin.
