@@ -1,6 +1,6 @@
 ![](brand-bar.svg)
 
-# Working toward a future built on Bitcoin
+I'm working toward a future built on Bitcoin.
 
 ## What I Do
 
