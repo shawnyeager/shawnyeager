@@ -6,7 +6,7 @@ Working toward a future built on Bitcoin.
 
 ## What I Do
 
-I help Bitcoin and freedomtech startups figure out go-to-market and revenue strategy. Previously led sales and business development at Amboss, NYDIG Payments, and Bottlepay.
+I help Bitcoin and freedom tech startups figure out go-to-market and revenue strategy. Previously led sales and business development at Amboss, NYDIG Payments, and Bottlepay.
 
 ## What I'm Working On
 
