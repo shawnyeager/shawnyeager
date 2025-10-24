@@ -14,6 +14,6 @@ I help Bitcoin and freedom tech startups figure out go-to-market and revenue str
 
 - **Email:** [hello@shawnyeager.com](mailto:hello@shawnyeager.com)
 - **Signal:** [shawnyeager.com/signal](https://shawnyeager.com/signal)
-- **Nostr:** [nostr.shawnyeager.com](https://nostr.shawnyeager.com)
+- **Nostr:** [shawnyeager.com/nostr](https://shawnyeager.com/nostr)
 
 Working on something in Bitcoin? Let's talk.
