@@ -8,7 +8,7 @@ I help Bitcoin and freedom tech startups figure out go-to-market and revenue str
 
 - Hosting [Trust Revolution](https://trustrevolution.co) — exploring how we rethink trust for a decentralized future
 - Writing at [shawnyeager.com](https://shawnyeager.com)
-- Thinking in public at [shawnyeager.org](https://shawnyeager.org)
+- Thinking in public at [notes.shawnyeager.com](https://notes.shawnyeager.com)
 
 ### Get in Touch
 
