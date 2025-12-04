@@ -2,7 +2,7 @@
 
 ### What I Do
 
-I help Bitcoin and freedom tech startups figure out go-to-market and revenue strategy. Previously led sales and biz dev at Amboss Technologies, NYDIG Payments, and Bottlepay.
+I operate, advise, and invest in Bitcoin and freedom tech startups. Previously led sales and biz dev at Amboss, NYDIG Payments, and Bottlepay.
 
 ### What I'm Working On
 
@@ -16,4 +16,4 @@ I help Bitcoin and freedom tech startups figure out go-to-market and revenue str
 - **Signal:** [shawnyeager.com/signal](https://shawnyeager.com/signal)
 - **Nostr:** [shawnyeager.com/nostr](https://shawnyeager.com/nostr)
 
-Working on something in Bitcoin? Let's talk.
+Building in Bitcoin or freedom tech? Let's talk.
