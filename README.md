@@ -2,7 +2,7 @@
 
 ### What I Do
 
-I operate, advise, and invest in Bitcoin and freedom tech startups. Previously led sales and biz dev at Amboss, NYDIG Payments, and Bottlepay.
+I help Bitcoin and freedom tech startups compete and win commercially—go-to-market, sales, partnerships, revenue. Previously led sales at Amboss, NYDIG Payments, and Bottlepay.
 
 ### What I'm Working On
 
