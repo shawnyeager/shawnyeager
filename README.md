@@ -1,10 +1,12 @@
 ![](brand-bar.svg)
 
 ### Working toward a future built on Bitcoin.  
-#### Helping founders on the same mission solve hard commercial problems.
+**Helping founders on the same mission solve hard commercial problems.**
 
 Previously: Amboss, NYDIG Payments, Bottlepay.
 
-[Essays](https://shawnyeager.com) · [Notes](https://notes.shawnyeager.com) · [Podcast](https://trustrevolution.co)
+Essays: [shawnyeager.com](https://shawnyeager.com)  
+Notes: [notes.shawnyeager.com](https://notes.shawnyeager.com)  
+Podcast: [trustrevolution.co](https://trustrevolution.co)
 
 hello@shawnyeager.com
