@@ -5,8 +5,6 @@
 
 Previously: Amboss, NYDIG Payments, Bottlepay.
 
-Writing at [shawnyeager.com](https://shawnyeager.com)  
-Thinking in public at [notes.shawnyeager.com](https://notes.shawnyeager.com)  
-Hosting [Trust Revolution](https://trustrevolution.co)
+[Essays](https://shawnyeager.com) · [Notes](https://notes.shawnyeager.com) · [Podcast](https://trustrevolution.co)
 
 hello@shawnyeager.com
