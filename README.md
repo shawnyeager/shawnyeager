@@ -1,7 +1,7 @@
 ![](brand-bar.svg)
 
 ### Working toward a future built on Bitcoin.  
-**Helping founders on the same mission solve hard commercial problems.**
+**Helping founders on the same mission solve hard commercial problems—positioning, sales process, channel strategy, revenue operations.**
 
 Previously: Amboss, NYDIG Payments, Bottlepay.
 
