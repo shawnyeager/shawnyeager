@@ -5,6 +5,15 @@
 
 Previously: Amboss, NYDIG Payments, Bottlepay.
 
+### Building
+
+- **[Trust Atlas](https://github.com/trustrevolution/trustatlas)** — Open data measuring trust across 200+ countries ([trustatlas.org](https://trustatlas.org))
+- **[nostr-ux-patterns](https://github.com/shawnyeager/nostr-ux-patterns)** — Evidence-informed UX patterns for Nostr apps
+- **[hearsay](https://github.com/shawnyeager/hearsay)** — Turn customer interview transcripts into product roadmap recommendations
+- **[v4v-analytics](https://github.com/shawnyeager/v4v-analytics)** — Value for Value payment analytics CLI for Bitcoin Lightning
+
+### Elsewhere
+
 - Hosting [trustrevolution.co](https://trustrevolution.co)
 - Writing at [shawnyeager.com](https://shawnyeager.com)
 - Thinking in public at [notes.shawnyeager.com](https://notes.shawnyeager.com)
