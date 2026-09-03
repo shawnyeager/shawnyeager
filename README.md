@@ -6,6 +6,4 @@ Building in agentic AI, Linux, and more.
 
 [GTM Map](https://gtm.shawnyeager.com) is the free go-to-market diagnostic for B2B founders.
 
-Previously: [@AmbossTech](https://github.com/AmbossTech), [@NYDIG](https://github.com/NYDIG), [@bottlepay](https://github.com/bottlepay)
-
 [shawnyeager.com](https://shawnyeager.com) · [sideband.pub](https://sideband.pub)
