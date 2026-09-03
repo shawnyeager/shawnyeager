@@ -1,6 +1,8 @@
 ![](brand-bar.svg)
 
-I’ve spent 30 years commercializing technology ahead of the market—from browsers to Bitcoin, now AI. I run [Upshift](https://upshiftco.com), [work with founders](https://shawnyeager.com/work-with-me) at the frontier, and write about what I learn.
+I’ve spent 30 years commercializing technology ahead of the market—from browsers to Bitcoin, now AI. 
+
+I run [Upshift](https://upshiftco.com), [work with founders](https://shawnyeager.com/work-with-me) at the frontier, and write about what I learn.
 
 Building in agentic AI, Linux, and more.
 
